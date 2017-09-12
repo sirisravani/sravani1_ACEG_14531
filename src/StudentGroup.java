@@ -61,12 +61,12 @@ public class StudentGroup implements StudentArrayOperation {
 	}
 
 	@Override
-	public void remove(int index) {
+	public void add(int index) {
 		// Add your implementation here
 	}
 
 	@Override
-	public void remove(Student student) {
+	public void add(Student student) {
 		// Add your implementation here
 	}
 
